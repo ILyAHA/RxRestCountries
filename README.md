@@ -1,4 +1,4 @@
-# RxRestCountries
+# RxRestCountries. In progress
 Countries API Rest with RX
 
 В приложении 2 экрана:
